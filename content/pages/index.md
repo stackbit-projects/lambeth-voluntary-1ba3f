@@ -14,7 +14,7 @@ sections:
         url: /features
         style: primary
       - label: Contact Us
-        url: /contact
+        url: /forum
         style: secondary
     align: left
     image: images/hero.svg
