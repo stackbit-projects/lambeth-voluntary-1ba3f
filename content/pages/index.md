@@ -16,7 +16,7 @@ sections:
       - label: Forum
         url: 'https://lambethvoluntary.freeflarum.com/'
         style: secondary
-      - label: lorem-ipsum
+      - label: Mutual Aid
         url: '#'
         style: link
         new_window: false
