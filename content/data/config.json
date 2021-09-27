@@ -27,7 +27,7 @@
             },
             {
                 "label": "Forum",
-                "url": "/contact",
+                "url": "/forum",
                 "style": "primary"
             }
         ]
