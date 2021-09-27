@@ -86,7 +86,7 @@ sections:
     background_color: gray
 seo:
   title: Lambeth voluntary groups
-  description: The preview of the Starter theme
+  description: An independent space to support community involvement in Lambeth
   extra:
     - name: 'og:type'
       value: website
