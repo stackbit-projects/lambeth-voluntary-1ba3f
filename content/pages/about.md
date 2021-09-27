@@ -21,7 +21,8 @@ sections:
     has_background: true
     background_color: blue
   - title: lorem-ipsum
-    team: []
+    team:
+      - content/data/team/person-mp2fsas72.json
     type: team_section
 seo:
   title: Who We Are
