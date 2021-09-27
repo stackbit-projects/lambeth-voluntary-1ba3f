@@ -11,7 +11,7 @@ sections:
       Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
       senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
       adipiscing elit pellentesque habitant.
-  - title: lorem-ipsum
+  - title: Supported by
     team:
       - content/data/team/person-mp2fsas72.json
     type: team_section
