@@ -22,7 +22,7 @@ sections:
         new_window: false
         no_follow: false
       - label: Office space
-        url: '#'
+        url: 'https://lambethvoluntary.freeflarum.com/t/office-space'
         style: link
         new_window: false
         no_follow: false
