@@ -14,6 +14,7 @@ sections:
   - title: Supported by
     team:
       - content/data/team/person-mp2fsas72.json
+      - content/data/team/person-mus6yq2ra.json
     type: team_section
 seo:
   title: Who We Are
