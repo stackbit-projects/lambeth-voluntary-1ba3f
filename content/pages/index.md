@@ -16,6 +16,11 @@ sections:
       - label: Forum
         url: 'https://lambethvoluntary.freeflarum.com/'
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image: /images/jamie-street-JPyRvvUnQjU-unsplash(1).jpg
     image_alt: Hero placeholder image
