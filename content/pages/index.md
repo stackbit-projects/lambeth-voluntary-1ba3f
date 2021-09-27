@@ -21,7 +21,7 @@ sections:
         style: link
         new_window: false
         no_follow: false
-      - label: lorem-ipsum
+      - label: Office space
         url: '#'
         style: link
         new_window: false
