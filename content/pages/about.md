@@ -1,5 +1,5 @@
 ---
-title: Local organisastions
+title: Local organisations
 sections:
   - type: hero_section
     title: Local organisations
