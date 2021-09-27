@@ -17,7 +17,7 @@ sections:
         url: 'https://lambethvoluntary.freeflarum.com/'
         style: secondary
       - label: Mutual Aid
-        url: '#'
+        url: 'https://lambethvoluntary.freeflarum.com/t/mutual-aid'
         style: link
         new_window: false
         no_follow: false
