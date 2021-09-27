@@ -13,7 +13,7 @@ sections:
       - label: Learn More
         url: /features
         style: primary
-      - label: Contact Us
+      - label: Forum
         url: /forum
         style: secondary
     align: left
