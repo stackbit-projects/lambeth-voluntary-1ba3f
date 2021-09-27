@@ -4,8 +4,11 @@ sections:
   - type: hero_section
     title: An independent space to support community involvement in Lambeth
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Lambeth does not have a representative body elected by community and
+      voluntary groups. This website aims to create an independent space
+      currently promoted by Waterloo Action Centre, Bright, and a few others, to
+      exchange information and ideas. And help those who wish to, to work closer
+      together.
     actions:
       - label: Learn More
         url: /features
