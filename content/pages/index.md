@@ -14,7 +14,7 @@ sections:
         url: /features
         style: primary
       - label: Forum
-        url: /forum
+        url: 'https://lambethvoluntary.freeflarum.com/'
         style: secondary
     align: left
     image: /images/jamie-street-JPyRvvUnQjU-unsplash(1).jpg
