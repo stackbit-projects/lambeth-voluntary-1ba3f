@@ -6,11 +6,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Features",
-                "url": "/features",
-                "style": "link"
-            },
-            {
                 "label": "Blog",
                 "url": "/blog",
                 "style": "link"
