@@ -27,7 +27,7 @@
             },
             {
                 "label": "Forum",
-                "url": "/forum",
+                "url": "https://lambethvoluntary.freeflarum.com/",
                 "style": "primary"
             }
         ]
