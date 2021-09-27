@@ -4,5 +4,6 @@
     "first_name": " ",
     "photo_alt": "lorem-ipsum",
     "bio": "## Waterloo Action Centre\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n*   Lorem ipsum\n*   dolor sit amet\n",
-    "type": "person"
+    "type": "person",
+    "last_name": " "
 }
