@@ -11,15 +11,6 @@ sections:
       Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
       senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
       adipiscing elit pellentesque habitant.
-  - type: cta_section
-    title: Join the Team
-    subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
-    has_background: true
-    background_color: blue
   - title: lorem-ipsum
     team:
       - content/data/team/person-mp2fsas72.json
