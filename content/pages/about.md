@@ -11,14 +11,6 @@ sections:
       Eu sem integer vitae justo eget magna fermentum. Habitant morbi tristique
       senectus et netus et malesuada fames. Ipsum dolor sit amet consectetur
       adipiscing elit pellentesque habitant.
-  - type: team_section
-    title: Our Team
-    team:
-      - content/data/team/miles-tone.yaml
-      - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
-      - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: Join the Team
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
