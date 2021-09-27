@@ -1,5 +1,5 @@
 ---
-title: Who We Are
+title: Local organisastions
 sections:
   - type: hero_section
     title: Local organisations
